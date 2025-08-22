@@ -92,7 +92,7 @@ print(manager.predict("ridge", {"feature1": 8, "feature2": 80}))
 ```
 ml_model_manager/
  ├── __init__.py
- └── main.py          # ModelManager class
+ └── main.py          # MLModelManager class
 README.md
 setup.py
 ```
